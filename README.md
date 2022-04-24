@@ -1,2 +1,1 @@
-# globos-con-fin
-ae
+# ExplotarGlobos2-plantilla
